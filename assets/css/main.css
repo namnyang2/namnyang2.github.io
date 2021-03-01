@@ -1191,6 +1191,7 @@ button.primary,
 	background-color: #ffffff;
 	color: #1b1f22 !important;
 	font-weight: 600;
+    	margin-bottom: 1.5rem;
 }
 
 input[type="submit"].disabled,
